@@ -4,6 +4,8 @@ SportFlow Engine: Engenharia de dados para Análise de Futebol
 
 Aluno: Lucas Petry 
 
+Matrícula RA: 22352404
+
 ## Descrição do projeto 
 
 O projeto SportFlow Engine tem como objetivo construir uma stack completa de engenharia de dados voltada à ingestão, processamento, análise e consumo de dados esportivos, com foco em futebol, utilizando dados provenientes da API SportsMonks.
