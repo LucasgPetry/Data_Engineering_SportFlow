@@ -6,6 +6,8 @@ Aluno: Lucas Petry
 
 Matrícula RA: 22352404
 
+Repositório destinado à implementação prática da segunda parte do projeto: https://github.com/LucasgPetry/data-cycle-engineering-sportflow
+
 ## Descrição do projeto 
 
 O projeto SportFlow Engine tem como objetivo construir uma stack completa de engenharia de dados voltada à ingestão, processamento, análise e consumo de dados esportivos, com foco em futebol, utilizando dados provenientes da API SportsMonks.
